@@ -2,7 +2,7 @@ package blooding;
 
 /**
  * Hello world!
- *°¡°¡°¡111222111
+ *
  */
 public class App 
 {
